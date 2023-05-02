@@ -42,13 +42,13 @@ Fill out the fields with your information:
 ### Step 3: personalization<a name="step3"></a>
 Choose personalization options. If you want you can skip this step by clicking "Skip personalization" at the bottom of the page.
 <h3 align="center">
-<img src="images/Step3.png" alt= “Step3” width="700" height="600">
+<img src="images/Step3.png" alt= “Step3” width="750" height="600">
 </h3>
 
 ### Step 4: Done<a name="step4"></a>
 If the previous instructions worked, you will now see a start page as the one in the image below.
 <h3 align="center">
-<img src="images/Step4.png" alt= “Step4” width="600" height="600">
+<img src="images/Step4.png" alt= “Step4” width="900" height="600">
 </h3>
 Feel free to go around and explore! we will use this soon for the exercises.
 
