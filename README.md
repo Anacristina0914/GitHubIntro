@@ -7,8 +7,8 @@
 1. [Create a github account](#githubacc)
 	1. [Step 1](#step1)
 	2. [Step 2](#step2)
-  3. [Step 3](#step3)
-  4. [Step 4](#step4)
+  	3. [Step 3](#step3)
+  	4. [Step 4](#step4)
 
 ## Create a new <a name="githubacc"></a>
 To carry out some of the exercises we will need a github account. Following the instructions below to create one.
@@ -48,7 +48,7 @@ Choose personalization options. If you want you can skip this step by clicking "
 ### Step 4: Done<a name="step4"></a>
 If the previous instructions worked, you will now see a start page as the one in the image below.
 <h3 align="center">
-<img src="images/Step3.png" alt= “Step4” width="600" height="600">
+<img src="images/Step4.png" alt= “Step4” width="600" height="600">
 </h3>
 Feel free to go around and explore! we will use this soon for the exercises.
 
