@@ -28,12 +28,13 @@ Once you have clicked on the botton you will see the following screen:
 <h3 align="center">
 <img src="images/Step2.png" alt= “Step2” width="600" height="600">
 </h3>
-Fill out the fields with your information: 
+Fill out the fields with your information:
+
 * Enter your email: it is possible you cannot use your institutional email, but your personal email is ok too.
 * Create a password: Try to use a password with at least 1 capital letter, 1 number, and 1 special character (e.g. !%$?). 
 * Enter a username: very straightforward, just choose something you can easily remember.
 * Opt in or out for anouncements: I chose n, but you can always choose y.
-* Verify the account - So you prove you are not a robot (or ChatGPT)
+* Verify the account - So you prove you are not a robot (or ChatGPT).
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/l0NwI1oBNxYfoRRny/giphy.gif" alt= “Step1” width="200" height="200">
@@ -50,5 +51,4 @@ If the previous instructions worked, you will now see a start page as the one in
 <h3 align="center">
 <img src="images/Step4.png" alt= “Step4” width="900" height="600">
 </h3>
-Feel free to go around and explore! we will use this soon for the exercises.
-
+Feel free to go around and explore!! we will use this soon for the exercises.
