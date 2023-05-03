@@ -9,8 +9,9 @@
 	2. [Step 2](#step2)
   	3. [Step 3](#step3)
   	4. [Step 4](#step4)
+2. [Create an SSH key](#sshkey)
 
-## Create a new <a name="githubacc"></a>
+## Create a new GitHub account <a name="githubacc"></a>
 To carry out some of the exercises we will need a github account. Following the instructions below to create one.
 
 ### Step 1: open GitHub<a name="step1"></a>
@@ -49,6 +50,13 @@ Choose personalization options. If you want you can skip this step by clicking "
 ### Step 4: Done<a name="step4"></a>
 If the previous instructions worked, you will now see a start page as the one in the image below.
 <h3 align="center">
-<img src="images/Step4.png" alt= “Step4” width="900" height="600">
+<img src="images/Step4.png" alt= “Step4” width="950" height="600">
 </h3>
 Feel free to go around and explore!! we will use this soon for the exercises.
+
+## Create and add SSH key <a name="sshkey"></a>
+In order to "link" our local directory with a remote directory in GitHub we will need to create a new SSH key, which will be used to securely authenticate ourselves everytime we are trying to make changes to our repositories (or others) repositories. Previously, you could use your password to authenticate yourself, but since 2022 it is no longer supported. 
+
+Follow the instructions in the following link to create a new ssh key, add it to your agent and to your GitHub account. 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
